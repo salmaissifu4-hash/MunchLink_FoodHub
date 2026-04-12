@@ -83,7 +83,7 @@ In simple terms:
 
 ---
 
-## Literature Connection (Recent and Real)
+## Literature Connection 
 
 The findings in this project are consistent with recent research in customer experience, digital platforms, and online food delivery.
 
